@@ -1,0 +1,17 @@
+/* RESET */
+
+blockquote, div, dl, input, ol, p, pre, ul { 
+  font-family:inherit; margin:0; outline:0; padding:0; 
+}
+
+/* HTML ELEMENTS */
+
+body { font-family:sans-serif; margin:2% 16%; }
+input, pre, textarea { font-family:monospace; }
+blockquote, dl, ol, p, ul { margin:0.5em auto 1em; }
+
+/* PAGE PARTS */
+
+#pagecontent { margin:1.5em auto; }
+
+
